@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-State_of_the_Art-orange.svg)](https://python.langchain.com/docs/langgraph)
-[![LLM](https://img.shields.io/badge/LLM-Gemini_1.5_Flash-green.svg)](https://ai.google.dev/)
+[![LLM](https://img.shields.io/badge/LLM-Gemini_2.5_Flash-green.svg)](https://ai.google.dev/)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 
 > **O fim da amnésia artificial.** Um assistente de e-mail 100% autônomo capaz de ler caixas de entrada, rotear ações de forma determinística, acionar ferramentas reais (como checagem de calendário) e manter memória de longo prazo vetorial.
